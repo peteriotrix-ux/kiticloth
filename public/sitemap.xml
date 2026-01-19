@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://your-domain.com/</loc><priority>1.0</priority></url>
+  <url><loc>https://your-domain.com/products/linen-summer-shirt.html</loc><priority>0.8</priority></url>
+  <url><loc>https://your-domain.com/products/classic-denim-jacket.html</loc><priority>0.8</priority></url>
+  <url><loc>https://your-domain.com/products/comfort-joggers.html</loc><priority>0.8</priority></url>
+  <url><loc>https://your-domain.com/products/organic-cotton-tee.html</loc><priority>0.8</priority></url>
+  <url><loc>https://your-domain.com/products/wool-blend-coat.html</loc><priority>0.8</priority></url>
+  <url><loc>https://your-domain.com/products/slim-fit-chinos.html</loc><priority>0.8</priority></url>
+  <url><loc>https://your-domain.com/products/summer-dress.html</loc><priority>0.8</priority></url>
+  <url><loc>https://your-domain.com/products/knitted-scarf.html</loc><priority>0.8</priority></url>
+  <url><loc>https://your-domain.com/products/leather-belt.html</loc><priority>0.8</priority></url>
+  <url><loc>https://your-domain.com/products/classic-polo.html</loc><priority>0.8</priority></url>
+  <url><loc>https://your-domain.com/privacy.html</loc><priority>0.3</priority></url>
+  <url><loc>https://your-domain.com/terms.html</loc><priority>0.3</priority></url>
+  <url><loc>https://your-domain.com/disclaimer.html</loc><priority>0.3</priority></url>
+</urlset>
